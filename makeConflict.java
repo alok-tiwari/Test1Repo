@@ -1,2 +1,2 @@
-feature branch line 1.
+This line changes at featurBranch.
 feature branch line2.
